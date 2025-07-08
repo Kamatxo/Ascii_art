@@ -17,7 +17,7 @@ A web application to convert images and videos into ASCII art, with options to e
 5. Use the export buttons to save your art in various formats.
 
 ## Web
-- Convert images and videos to ASCII art in the browser
+[https://kamatxo.github.io/Ascii_art/](https://kamatxo.github.io/Ascii_art/)
 
 ## Project Structure
 - `index.html` – Main HTML file
